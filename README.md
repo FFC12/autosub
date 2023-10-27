@@ -1,16 +1,13 @@
 # Video Subtitle Generator
 
-This is a simple application that automatically adds subtitles to a video in the specified language using Go, Fiber, and Python. It utilizes the OpenaAI's Whisper system for transcription and LibreTranslate for translation. I completed this within one day.
+This is a simple application that automatically adds subtitles to a video in the specified language using Go and Python. It utilizes the OpenaAI's Whisper system for transcription and LibreTranslate for translation. I completed this project within one day.
 
 ## Prerequisites
 
 Before you can use this application, you need to ensure that you have the following dependencies installed:
 
 - [Go](https://golang.org/doc/install)
-- [Fiber](https://docs.gofiber.io/guide/getting-started)
 - [Python 3](https://www.python.org/downloads/)
-- [Whisper ASR](https://whisper.a-i.com/docs/)
-- [LibreTranslate](https://libretranslate.com/docs/)
 
 ## Installation
 
