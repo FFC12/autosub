@@ -40,13 +40,6 @@ func Transcribe(objectInfo ObjectInfo, targetLanguage string) (string, error) {
 		return "", err
 	}
 
-	/*
-		output, err := cmd.CombinedOutput()
-		if err != nil {
-			fmt.Println(string(output))
-			return "", err
-		}*/
-
 	// Read file from objectInfo.TargetPath as `<uuid>.srt`
 	file, err := os.ReadFile(objectInfo.TargetPath + "/" + objectInfo.VideoName + "/" + objectInfo.UUID + ".srt")
 
