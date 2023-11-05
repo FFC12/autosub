@@ -8,6 +8,8 @@ Before you can use this application, you need to ensure that you have the follow
 
 - [Go](https://golang.org/doc/install)
 - [Python 3](https://www.python.org/downloads/)
+- ffmpeg
+- bash (I haven't tested it on Windows)
 
 ## Installation
 
