@@ -42,7 +42,7 @@ Before you can use this application, you need to ensure that you have the follow
 
 ![image](images/1.png)
 
-4. Upload your video file, select the target language for subtitles, and click the "Generate Subtitles" button.
+4. Upload your video file, select the target language for subtitles, and click the "Upload" button.
 
 5. The application will process the video, transcribe the audio using Whisper, translate the transcription using LibreTranslate, and then generate subtitles.
 
